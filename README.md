@@ -12,7 +12,9 @@
 <div style="display: inline_block"><br> 
   <img aling="center" alt="vini-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img aling="right" alt="vini-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
+  <img aling="right" alt="vini-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+            
+     
 </div>
   
 <!--
