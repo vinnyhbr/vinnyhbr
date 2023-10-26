@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=0000FF&center=true&vCenter=true&lines=%3CHello+World%2C+Vini+here!%2F%3E)
+
 # welcome to my GitHub! 😄
 - 🔭 I’m currently working on gamejam with friends
 - 🌱 I’m currently learning Java and python
